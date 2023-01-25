@@ -27,7 +27,7 @@ img{
 
 div{
     /* height: 135px; */
-    min-height: 125px;
+    min-height: 135px;
     padding: 20px;
     border: solid 3px #FFFFFF;
 }
@@ -79,12 +79,12 @@ footer{
     padding: 15px 15px 15px 0px; */
 }
 footer p{
+    font-size: 20px;
+    text-align: right;
+    padding: 15px 15px 15px 0px;    
+}
+/* p footer{
     text-align: right;
     font-size: 20px;
     padding: 15px 15px 15px 0px;
-}
-p footer{
-    text-align: right;
-    font-size: 20px;
-    padding: 15px 15px 15px 0px;
-}
+} */
