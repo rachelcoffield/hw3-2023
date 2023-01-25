@@ -26,7 +26,8 @@ img{
 }
 
 div{
-    height: 135px;
+    /* height: 135px; */
+    min-height: 125px;
     padding: 20px;
     border: solid 3px #FFFFFF;
 }
@@ -78,6 +79,11 @@ footer{
     padding: 15px 15px 15px 0px; */
 }
 footer p{
+    text-align: right;
+    font-size: 20px;
+    padding: 15px 15px 15px 0px;
+}
+p footer{
     text-align: right;
     font-size: 20px;
     padding: 15px 15px 15px 0px;
