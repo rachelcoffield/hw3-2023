@@ -27,7 +27,7 @@ img{
 
 div{
     /* height: 135px; */
-    min-height: 135px;
+    min-height: 125px;
     padding: 20px;
     border: solid 3px #FFFFFF;
 }
