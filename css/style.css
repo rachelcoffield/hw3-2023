@@ -26,7 +26,8 @@ img{
 }
 
 div{
-    height: 125px;
+    /* height: 135px; */
+    min-height: 125px;
     padding: 20px;
     border: solid 3px #FFFFFF;
 }
@@ -73,7 +74,17 @@ footer{
     background: rgb(0,0,0);
     background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,255,1) 25%, rgba(0,102,255,1) 70%, rgba(0,0,0,1) 100%);
     border: solid 5px #FFFFFF;
+    /* text-align: right;
+    font-size: 20px;
+    padding: 15px 15px 15px 0px; */
+}
+footer p{
+    font-size: 20px;
+    text-align: right;
+    padding: 15px 15px 15px 0px;    
+}
+/* p footer{
     text-align: right;
     font-size: 20px;
     padding: 15px 15px 15px 0px;
-}
+} */
